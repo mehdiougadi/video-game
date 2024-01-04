@@ -17,10 +17,8 @@ The core concept of "Just Run!" is centered around a fast-paced and engaging exp
 ### Screenshots
 
 ![Screenshot 1 - Just Run!](https://github.com/TheKaizenKage/JustRun/assets/94637849/a51adbf0-dc4b-4326-bb48-28348e15dbca)
-*Caption: Brief description of the first screenshot.*
 
 ![Screenshot 2 - Just Run!](https://github.com/TheKaizenKage/JustRun/assets/94637849/f8b4e23e-e53a-465b-9425-c338984100a3)
-*Caption: Brief description of the second screenshot.*
 
 ## Learnings and Skills Development
 
